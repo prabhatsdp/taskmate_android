@@ -9,5 +9,20 @@
     <color name="white">#FFFFFFFF</color>
 
 <!--    === App Custom Colors -->
-
+    <color name="orange_500">#FFFE7443</color>
+    <color name="orange_700">#FFE53C01</color>
+    <color name="orange_200">#FFFFECE6</color>
+    <color name="blue_500">#FF8677FE</color>
+    <color name="blue_700">#FF5944FE</color>
+    <color name="blue_200">#FFD2CCFF</color>
+    <color name="off_white">#FFFAFAFE</color>
+    <color name="dark_blue">#FF2F2F51</color>
+    <color name="gray_700">#FF78788E</color>
+    <color name="gray_200">#FFE6E6EA</color>
+    <color name="red_500">#FFED4D42</color>
+    <color name="red_200">#FFFBD3D0</color>
+    <color name="light_orange_500">#FFFE983A</color>
+    <color name="light_orange_200">#FFFFE4CC</color>
+    <color name="green_500">#FF05C552</color>
+    <color name="green_200">#FFCDFEE1</color>
 </resources>
