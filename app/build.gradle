@@ -25,7 +25,7 @@ android {
         }
     }
     buildFeatures {
-        viewBinding = true
+        viewBinding true
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -54,6 +54,8 @@ dependencies {
     // Navigation libraries
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+    // Testing Navigation
+    androidTestImplementation "androidx.navigation:navigation-testing:$nav_version"
 
     // Room
     implementation "androidx.room:room-runtime:$room_version"
